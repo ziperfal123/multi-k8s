@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed04f10c-0c67-4fd0-90bc-53655f531372" name="Default Changelist" comment="" />
+    <list default="true" id="ed04f10c-0c67-4fd0-90bc-53655f531372" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerrun.aws.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerrun.aws.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx/default.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +43,10 @@
       <option name="presentableId" value="Default" />
       <updated>1585465953626</updated>
       <workItem from="1585465960749" duration="23185000" />
-      <workItem from="1585636026423" duration="1942000" />
+      <workItem from="1585636026423" duration="3057000" />
+      <workItem from="1585721664799" duration="437000" />
+      <workItem from="1585742767089" duration="655000" />
+      <workItem from="1585984837436" duration="69000" />
     </task>
     <servers />
   </component>
